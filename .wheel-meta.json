@@ -1,0 +1,22 @@
+{
+  "wheel_id": 673,
+  "structure": "umbrella",
+  "slug": "toowoombaretainingwalls-108",
+  "project": "retaining-wall-builders-toowoomba-glossary-ae953f7feb977f7ba7c5",
+  "parent_t1_ref": "toowoombaretainingwalls-153",
+  "node_role": "feeder",
+  "money_target": "toowoombaretainingwalls.com.au",
+  "primary_kw": "retaining wall builders toowoomba glossary",
+  "intended_url": "http://retaining-wall-builders-toowoomba-glossary-ae953f7feb977f7ba7c5.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "8b779489d5d717ee",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-builders-toowoomba-budget-tips-3813e1ad99d1279b3/",
+      "anchor": "more on retaining wall builders toowoomba budget tips",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
